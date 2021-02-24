@@ -1,24 +1,22 @@
 # 安装
-下载最新的
-https://nodejs.org/
-
-
-
+1 安装最新的ndoejs https://nodejs.org/
+2 下载代码 git clone https://github.com/xcstream/autogift
+3 命令行cd 到代码位置 运行npm install
 
 # 配置
 
 复制一份config.json.example ,命名为config.json
 `
-{
-    "headers":{
-        "SESSDATA":"**********************************",
-        "bili_jct":"*******************************"
-    },
-    "roomid":428,
-    "maxgift":1,
-    "pretime":500,
-    "sendgift":true
-}
+        {
+            "headers":{
+                "SESSDATA":"**********************************",
+                "bili_jct":"*******************************"
+            },
+            "roomid":428,
+            "maxgift":1,
+            "pretime":500,
+            "sendgift":true
+        }
 `
 
 个人cookie信息：
