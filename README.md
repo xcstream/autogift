@@ -1,3 +1,8 @@
+# 用途
+
+bilibili直播pk 自动送礼物的脚本。
+直播规则可能更改不保证长期可用。
+
 # 安装
 
 1 安装最新的ndoejs https://nodejs.org/
