@@ -15,16 +15,16 @@ bilibili直播pk 自动送礼物的脚本。
 
 复制一份config.json.example ,命名为config.json
 
-        {
-            "headers":{
-                "SESSDATA":"**********************************",
-                "bili_jct":"*******************************"
-            },
-            "roomid":428,
-            "maxgift":1,
-            "pretime":500,
-            "sendgift":true
-        }
+    {
+        "headers":{
+            "SESSDATA":"11111111111111111111111111111111",
+            "bili_jct":"22222222222222222222222222222222"
+        },
+        "roomid":68860,
+        "maxgift":2,
+        "pretime":100,
+        "sendgift":true
+    }
 
 个人cookie信息：
 
