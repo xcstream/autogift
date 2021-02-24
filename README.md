@@ -7,7 +7,7 @@ bilibili直播pk 自动送礼物的脚本。
 
 1 安装最新的ndoejs https://nodejs.org/
 
-2 下载代码 git clone https://github.com/xcstream/autogift
+2 下载代码 git clone https://github.com/xcstream/autogift 或者下载压缩包
 
 3 命令行cd 到代码位置 运行npm install
 
